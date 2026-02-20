@@ -15,4 +15,4 @@ The makefile contains 5 scripts which you should be able to use to debug the iss
 The `make build` script works fine with version `5.45.10` and previous versions,
 however it breaks when switching to `5.46.0`, specifically bundling with esbuild breaks because `Could not resolve "node:crypto"`.
 
-This issue also persist with the latest available version of svelte, `5.53.0`.
+This issue also persist with the latest (currently) available version of svelte, `5.53.0`.
