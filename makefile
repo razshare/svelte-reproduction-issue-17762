@@ -8,5 +8,8 @@ switch-to-5.45.10:
 switch-to-5.46.0:
 	npm i -D svelte@5.46.0
 
+switch-to-5.49.2:
+	npm i -D svelte@5.49.2
+
 switch-to-latest:
 	npm i -D svelte@latest
